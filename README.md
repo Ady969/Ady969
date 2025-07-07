@@ -1,6 +1,6 @@
 ## Hi there! I am Mohmadadil Shaikh 👋
 
-Welcome to my GitHub profile! 🚀 I'm a **Data Analyst** with a passion for transforming raw data into meaningful insights, designing compelling dashboards, and solving complex problems using data-driven strategies.
+Welcome to my GitHub profile! 🚀 I'm a **Business Analyst** with a passion for transforming raw data into meaningful insights, designing compelling dashboards, and solving complex problems using data-driven strategies.
 
 ## ✨ About Me
 
