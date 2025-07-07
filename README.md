@@ -1,6 +1,7 @@
 ## Hi there! I am Mohmadadil Shaikh 👋
 
-Welcome to my GitHub profile! 🚀 I'm a **Business Analyst** with a passion for transforming raw data into meaningful insights, designing compelling dashboards, and solving complex problems using data-driven strategies.
+Welcome to my GitHub profile! 🚀 I'm a **Business Analyst** passionate about bridging the gap between data and decision-making. I specialize in understanding business needs, analyzing data trends, designing actionable dashboards, and delivering impactful solutions that drive business growth.
+From process improvement to stakeholder communication, I turn insights into strategy and strategy into results.
 
 ## ✨ About Me
 
